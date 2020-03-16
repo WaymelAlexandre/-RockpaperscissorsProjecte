@@ -1,0 +1,27 @@
+h1 {
+    background-color: rgb(23, 139, 143);
+    border: 0px;
+    padding:100px; 
+    margin:0px;
+    border-collapse: collapse;
+    text-align: center;
+}
+h2 {
+    margin: 20px;
+}
+
+body {
+    margin: 0px;
+}
+p {
+    margin: 40px;
+}
+
+button {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(23, 139, 143);
+    margin-left: 45%;
+    margin-right: 45%;
+    
+    }
