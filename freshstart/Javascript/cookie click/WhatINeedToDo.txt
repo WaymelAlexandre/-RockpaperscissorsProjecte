@@ -1,0 +1,69 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------- cookie click game DONT FOCUS ON STYLE but on the game-------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+this is my presonale note, sorry for my french so :)
+
+
+
+
+\\\html///
+
+--structure the webapp
+    --tittle     
+    --button schape of cookie *  //need to learn to do a button with the shape a want 
+    --show counter click *
+    --show counter of total of made cookie *
+    -- couple button for upgrade*
+--
+\\\css///
+
+    --basic webapp*
+        -- background colors dark*
+        -- use flex and/or grid to make this quicker and nicer *
+        --cookiebutton on centre big one *
+        -- upgrade on top with the total next to it  *
+        --down the cookie button the cpm(click par min add)*
+        -- logo for my upgrade *
+--
+\\\java///
+
+     --counter of clike*
+        -add 1 each clike on cookie button   *
+        -add sound on clike (optional if time 2hour )   /// need to learn this
+    cookie made by second  *
+
+    --log (historie)*
+        -clike counter*
+        -upgrade buys*
+        
+    --upgrade(1 hours look and build  )                          made on
+        -autoclike *
+            grandma, Mine, factory and Temple
+                --for click on button spend some cookie { on cookie total counter if possible }*
+                --when button click start fuction*
+                --when fonction start add 1 click by 5second *
+		--Temple add some cookie by clike * 
+
+
+    --retrune log info / historie
+        --what info needed
+            -the clicke number *
+                -creat a tag to display the TOTAL num of clike* 
+
+            -upgrade acheter*
+                le numbre amelioration acheter *
+
+            -clicke by secound*
+                show the clike par second* 
+
+
+
+
+    ---------------------------------------   }{ IF TIME }{  ----------------------------------
+    
+    --each clike make a mini cookie rain on webapp ( maybe 4|6 hours no idea to do this check annimation in css | java }
+    --popop button lucky cookie  (  how to pop a button aleatory in a webpage ????????? learn this if you have a sec )  to add some free cookie .
