@@ -1,0 +1,21 @@
+
+This week your task will be to build the UI for our end of semester project. Currently, the fundamental requirements of this UI have been mocked up here:
+https://www.figma.com/file/n5UFYWrf6rkdDQ0NLctLUd/RPS-Swinburne-Style?node-id=0%3A1 (Links to an external site.)
+
+
+The client only wishes for Release 1 to be developed -
+do not do any more work then what they are asking for at this stage.
+Your developed User Interface must implement routing to the two designed pages within Release 1,
+how you communicate between these two pages is up to you.
+
+
+
+What is required from you
+
+This current iteration (of 3 to come) is asking for a Rock Paper, Scissors game
+that allows the User to select an option in the first screen, then POST that option to a server,
+and finally displays the result (win or loose and what was chosen)
+back to the User on a new Route on the second screen.
+
+You are required to create a new GitHub Repository and submit the link to this assignment page as soon as possible.
+This repository can be public or private (add LachlanVelden-swin if its private).
